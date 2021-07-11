@@ -2,9 +2,18 @@ body {
     background: white;
 }
 
+html {
+    scroll-behavior: smooth;
+  }
+
 * {
     box-sizing: border-box;
   }
+
+a > img {
+    width: 8%;
+    padding-left: 10px;
+}
 
 #clients div {
     display: flex;
