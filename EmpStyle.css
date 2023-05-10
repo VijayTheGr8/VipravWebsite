@@ -33,6 +33,7 @@ input[type="email"],
 input[type="tel"],
 select,
 input[type="password"] {
+  border: 1px solid #ccc;
   width: 100%;
   padding: 12px 20px;
   margin: 8px 0;
